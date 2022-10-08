@@ -1,0 +1,9 @@
+//ctrl space
+//transpile ~ ctrl + shift + b
+{
+    "compilerOptions": {
+        "target": "ES2022",
+        "module": "CommonJS",
+        "sourceMap": true
+    }
+}
